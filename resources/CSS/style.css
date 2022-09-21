@@ -1,0 +1,379 @@
+/* You are 1 call away from Your New Gutters! */
+
+position: absolute;
+width: 504px;
+height: 88px;
+left: 215px;
+top: 210px;
+
+font-family: "Montserrat";
+font-style: normal;
+font-weight: 900;
+font-size: 36px;
+line-height: 44px;
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+
+color: #1f90cd;
+
+/* No more leaking! Stop checking your gutters and cleaning them out of debris */
+
+position: absolute;
+width: 494px;
+height: 58px;
+left: 215px;
+top: 315px;
+
+font-family: "Montserrat";
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #93c772;
+
+/* Request a quote button */
+
+position: absolute;
+width: 200px;
+height: 43px;
+left: 215px;
+top: 407px;
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 200px;
+height: 43px;
+left: 215px;
+top: 407px;
+
+background: #1f90cd;
+border-radius: 7px;
+
+/* REQUEST A FREE QUOTE */
+
+position: absolute;
+width: 182px;
+height: 17px;
+left: 224px;
+top: 420px;
+
+font-family: "Montserrat";
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #ffffff;
+
+/* Logo */
+
+position: absolute;
+width: 44px;
+height: 38px;
+left: 215px;
+top: 37px;
+
+opacity: 0.7;
+filter: drop-shadow(10px 4px 4px rgba(0, 0, 0, 0.25));
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 44px;
+height: 38px;
+left: 215px;
+top: 37px;
+
+background: #1f90cd;
+border-radius: 7px;
+
+/* LG */
+
+position: absolute;
+width: 33px;
+height: 29px;
+left: 221px;
+top: 41px;
+
+font-family: "Montserrat";
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #ffffff;
+
+/* Lucky Gutter */
+
+position: absolute;
+width: 159px;
+height: 29px;
+left: 277px;
+top: 41px;
+
+font-family: "Montserrat";
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #1f90cd;
+
+text-shadow: 10px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Menu */
+
+position: absolute;
+width: 569px;
+height: 30px;
+left: 834px;
+top: 41px;
+
+/* Email */
+
+position: absolute;
+width: 113px;
+height: 30px;
+left: 1151px;
+top: 41px;
+
+/* Contact */
+
+position: absolute;
+width: 86px;
+height: 20px;
+left: 1178px;
+top: 46px;
+
+font-family: "Montserrat";
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #9acb7b;
+
+/* Mail Black */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 1151px;
+top: 41px;
+
+background: url(.png);
+
+/* Mail */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 1151px;
+top: 41px;
+
+background: url(.png);
+
+/* About */
+
+position: absolute;
+width: 102px;
+height: 30px;
+left: 1301px;
+top: 41px;
+
+/* About */
+
+position: absolute;
+width: 86px;
+height: 20px;
+left: 1317px;
+top: 46px;
+
+font-family: "Montserrat";
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #9acb7b;
+
+/* Info Squared Black */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 1301px;
+top: 41px;
+
+background: url(.png);
+
+/* Info Squared */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 1301px;
+top: 41px;
+
+background: url(.png);
+
+/* Services */
+
+position: absolute;
+width: 109px;
+height: 30px;
+left: 1006px;
+top: 41px;
+
+/* Services */
+
+position: absolute;
+width: 86px;
+height: 20px;
+left: 1029px;
+top: 46px;
+
+font-family: "Montserrat";
+font-style: normal;
+font-weight: 800;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #3e8e0b;
+
+/* Hammer black */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 1006px;
+top: 41px;
+
+background: url(.png);
+
+/* Hammer */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 1006px;
+top: 41px;
+
+background: url(.png);
+
+/* Call */
+
+position: absolute;
+width: 135px;
+height: 30px;
+left: 834px;
+top: 41px;
+
+/* 604-604-1111 */
+
+position: absolute;
+width: 101px;
+height: 20px;
+left: 868px;
+top: 46px;
+
+font-family: "Montserrat";
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #9acb7b;
+
+/* Call black */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 834px;
+top: 41px;
+
+background: url(.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+/* Call */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 834px;
+top: 41px;
+
+background: url(.png);
+
+/* Active Page Line */
+
+position: absolute;
+width: 71.01px;
+height: 0px;
+left: 1037px;
+top: 65px;
+
+border: 1px solid rgba(111, 111, 111, 0.4);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+transform: rotate(0.82deg);
+
+/* Simple Facts: Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32. */
+
+position: absolute;
+width: 806px;
+height: 243px;
+left: 215px;
+top: 521px;
+
+font-family: "Montserrat";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 27px;
+/* or 169% */
+display: flex;
+align-items: center;
+
+color: #9acb7b;
+
+/* Copyright © 2022 C Lucky Gutter */
+
+position: absolute;
+width: 261px;
+height: 20px;
+left: 215px;
+top: 863px;
+
+font-family: "Montserrat";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* Gutter Img */
+
+position: absolute;
+width: 958.82px;
+height: 900px;
+left: 734px;
+top: 86px;
+
+background: url(image.png);
