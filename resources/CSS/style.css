@@ -61,20 +61,26 @@ li a:hover {
   color: #3e8e0b;
 }
 
-h1 {
+.call_away {
   font-weight: 900;
   letter-spacing: 0.05rem;
   color: #1f90cd;
+  width: 30%;
+  margin-top: 5%;
 }
 
-h2 {
+.no_more {
   color: #93c772;
   font-weight: 400;
+  width: 30%;
+  margin-top: 2%;
 }
 
-p {
+.body_text {
   color: #93c772;
   font-weight: 400;
+  width: 70%;
+  margin-top: 7%;
 }
 
 h3 {
@@ -87,4 +93,18 @@ h3 {
   border-radius: 7px;
   color: white;
   font-weight: 600;
+  font-size: 0.875rem;
+  text-align: center;
+  width: 200px;
+  left: 215px;
+  top: 407px;
+  padding: 12px 0;
+  margin-top: 2%;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  height: 40px;
+  margin-top: 40px;
 }
